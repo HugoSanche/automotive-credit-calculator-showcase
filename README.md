@@ -2,7 +2,7 @@
 
 Enterprise-level web application developed with Spring Boot for automotive financing and leasing quotation management.
 
-Overview
+**Overview**
 
 The Automotive Credit Calculator is a full-stack web application that automates the quotation process for automotive financing products.
 
