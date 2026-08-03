@@ -57,6 +57,7 @@ The platform allows financial institutions to calculate loan payments, leasing p
 
 **Credit Simulator**
 
+
 <img width="1092" height="600" alt="image" src="https://github.com/user-attachments/assets/8204bd1f-4949-464d-ab72-97e6dea83444" />
 
 
@@ -65,19 +66,29 @@ The platform allows financial institutions to calculate loan payments, leasing p
 
 <img width="1079" height="810" alt="image" src="https://github.com/user-attachments/assets/57f707d3-fbbe-4fa2-98b3-934a319182e7" />
 
+
 **PDF Report**
+
 
 <img width="1712" height="985" alt="image" src="https://github.com/user-attachments/assets/05ad510a-169d-464f-a7d0-bfe9297d8d47" />
 
 
-
 <img width="1049" height="903" alt="image" src="https://github.com/user-attachments/assets/796eea77-ebfc-4e16-b8b5-d24c324bc072" />
 
+
 **Login**
+
+
 <img width="1177" height="784" alt="image" src="https://github.com/user-attachments/assets/d8d46a54-bc08-4441-a363-d0b42d60cee4" />
 
 
+**Administration Dashboard**
+
+
 <img width="1899" height="903" alt="image" src="https://github.com/user-attachments/assets/0f79af5c-30bd-4d4e-a0f1-b4d57064d133" />
+
+
+**Rate Management**
 
 
 <img width="1902" height="890" alt="image" src="https://github.com/user-attachments/assets/9a2615f8-9597-42a8-bfc2-7d9a0f5e74ad" />
