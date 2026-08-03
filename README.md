@@ -50,7 +50,7 @@ The platform allows financial institutions to calculate loan payments, leasing p
 
 # Application Architecture
 
-<img width="1536" height="1024" alt="ChatGPT Image 2 ago 2026, 07_28_26 p m" src="https://github.com/user-attachments/assets/ad55edeb-13f5-4057-a277-c5dae2eb6bf5" />
+<img width="1536" height="1024" alt="ChatGPT Image 2 ago 2026, 07_52_24 p m" src="https://github.com/user-attachments/assets/62dd883c-778b-40a8-ba24-b37c18937ae6" />
 
 
 # Screenshots
