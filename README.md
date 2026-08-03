@@ -65,17 +65,17 @@ The platform allows financial institutions to calculate loan payments, leasing p
 
 <img width="1079" height="810" alt="image" src="https://github.com/user-attachments/assets/57f707d3-fbbe-4fa2-98b3-934a319182e7" />
 
+**PDF Report**
 
 <img width="1712" height="985" alt="image" src="https://github.com/user-attachments/assets/05ad510a-169d-464f-a7d0-bfe9297d8d47" />
 
-**PDF Report**
+
 
 <img width="1049" height="903" alt="image" src="https://github.com/user-attachments/assets/796eea77-ebfc-4e16-b8b5-d24c324bc072" />
 
-
+**Login**
 <img width="1177" height="784" alt="image" src="https://github.com/user-attachments/assets/d8d46a54-bc08-4441-a363-d0b42d60cee4" />
 
-**Login**
 
 <img width="1899" height="903" alt="image" src="https://github.com/user-attachments/assets/0f79af5c-30bd-4d4e-a0f1-b4d57064d133" />
 
